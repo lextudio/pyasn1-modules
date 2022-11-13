@@ -4,7 +4,7 @@
 # Modified by Russ Housley to add maps for opentypes.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # Elliptic Curve Cryptography Subject Public Key Information
 #

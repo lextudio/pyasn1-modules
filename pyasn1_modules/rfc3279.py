@@ -2,7 +2,7 @@
 # This file is part of pyasn1-modules.
 #
 # Copyright (c) 2017, Danielle Madeley <danielle@madeley.id.au>
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # Modified by Russ Housley to add maps for use with opentypes.
 #

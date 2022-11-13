@@ -4,7 +4,7 @@
 # Created by Russ Housley.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # PKCS #1: RSA Cryptography Specifications Version 2.2
 #

@@ -5,7 +5,7 @@
 # Modified by Russ Housley to add a map for use with opentypes.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # Asymmetric Key Packages, which is essentially version 2 of
 #   the PrivateKeyInfo structure in PKCS#8 in RFC 5208

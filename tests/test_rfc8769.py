@@ -2,7 +2,7 @@
 # This file is part of pyasn1-modules software.
 #
 # Copyright (c) 2020, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 import sys
 import unittest

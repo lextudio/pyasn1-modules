@@ -6,7 +6,7 @@
 #   enforce the requirements that are indicated in comments.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # Qualified Certificates
 #

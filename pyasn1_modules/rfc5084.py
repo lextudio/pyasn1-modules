@@ -4,7 +4,7 @@
 #   changes to AES_CCM_ICVlen.subtypeSpec and added comments
 #
 # Copyright (c) 2018-2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 #  AES-CCM and AES-GCM Algorithms fo use with the Authenticated-Enveloped-Data
 #  protecting content type for the Cryptographic Message Syntax (CMS)

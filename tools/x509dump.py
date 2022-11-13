@@ -3,7 +3,7 @@
 # This file is part of pyasn1-modules software.
 #
 # Copyright (c) 2005-2020, Ilya Etingof <etingof@gmail.com>
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # Read ASN.1/PEM X.509 certificates on stdin, parse each into plain text,
 # then build substrate from it

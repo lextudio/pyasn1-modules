@@ -3,7 +3,7 @@
 # Created by Russ Housley with assistance from asn1ate v.0.6.0.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # S/MIME Version 3.2 Message Specification
 #

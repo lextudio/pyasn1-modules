@@ -4,7 +4,7 @@
 # Created by Russ Housley with assistance from asn1ate v.0.6.0.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # Using the GOST 28147-89, GOST R 34.11-94, GOST R 34.10-94, and
 #   GOST R 34.10-2001 Algorithms with the CMS

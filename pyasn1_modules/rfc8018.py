@@ -4,7 +4,7 @@
 # Created by Russ Housley.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # PKCS #5: Password-Based Cryptography Specification, Version 2.1
 #

@@ -3,7 +3,7 @@
 # Created by Russ Housley
 #
 # Copyright (c) 2020, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # HSS/LMS Hash-based Signature Algorithm for CMS
 #

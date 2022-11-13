@@ -3,7 +3,7 @@
 # Created by Russ Housley with assistance from the asn1ate tool.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # PKCS #12: Personal Information Exchange Syntax v1.1
 #

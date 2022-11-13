@@ -4,7 +4,7 @@
 # Created by Russ Housley.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # Using the GOST R 34.10-94, GOST R 34.10-2001, and GOST R 34.11-94
 #   Algorithms with Certificates and CRLs

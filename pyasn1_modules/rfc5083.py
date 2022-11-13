@@ -5,7 +5,7 @@
 #   simplify the code for the object identifier assignment.
 #
 # Copyright (c) 2018, 2019 Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 #  Authenticated-Enveloped-Data for the Cryptographic Message Syntax (CMS)
 #

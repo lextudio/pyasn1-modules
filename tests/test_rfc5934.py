@@ -4,7 +4,7 @@
 # Created by Russ Housley
 # Acknowledgement to Carl Wallace for the test messages.
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 import sys
 import unittest

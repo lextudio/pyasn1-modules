@@ -5,7 +5,7 @@
 #   Policies Certificate Extension.
 #
 # Copyright (c) 2005-2020, Ilya Etingof <etingof@gmail.com>
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # X.509 message syntax
 #

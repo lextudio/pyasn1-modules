@@ -5,7 +5,7 @@
 # Modified by Russ Housley to add maps for use with opentypes.
 #
 # Copyright (c) 2019, Vigil Security, LLC
-# License: http://snmplabs.com/pyasn1/license.html
+# License: https://www.pysnmp.com/pyasn1/license.html
 #
 # X.509 Extensions for MUD URL and MUD Signer;
 # Object Identifier for CMS Content Type for a MUD file
