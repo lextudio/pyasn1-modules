@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "pysnmp-pyasn1-modules"
+name = "pyasn1-modules-lextudio"
 version = "0.2.9"
 description = "A collection of ASN.1-based protocols modules."
-authors = ["rfaircloth-splunk <rfaircloth@splunk.com>"]
+authors = ["Lex Li <support@lextudio.com>"]
 license = "BSD-2-Clause"
 classifiers = [
     "Development Status :: 5 - Production/Stable",
@@ -26,10 +26,10 @@ include = ["docs", "tests"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-pysnmp-pyasn1 = "^0.4.11"
+pyasn1-lextudio = ">=0.4.11"
 
 [tool.poetry.dev-dependencies]
-Sphinx = "pytest"
+Sphinx = "^4.3.0"
 pytest = "^6.2.5"
 pytest-cov = "^3.0.0"
 
