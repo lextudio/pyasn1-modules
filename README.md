@@ -2,6 +2,7 @@
 ASN.1 modules for Python
 ------------------------
 [![PyPI](https://img.shields.io/pypi/v/pyasn1-modules-lextudio.svg?maxAge=2592000)](https://pypi.org/project/pyasn1-modules-lextudio)
+[![PyPI Downloads](https://img.shields.io/pypi/dd/pyasn1-modules-lextudio)](https://pypi.python.org/pypi/pyasn1-modules-lextudio/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/pyasn1-modules-lextudio.svg)](https://pypi.org/project/pyasn1-modules-lextudio/)
 [![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/lextudio/pyasn1-modules/master/LICENSE.txt)
 
